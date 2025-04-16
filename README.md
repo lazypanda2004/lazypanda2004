@@ -13,12 +13,6 @@
 <br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lazypanda2004&area_color=99f5ff&bg_color=060A0CD0&color=00e7ff&line=00e7ff&point=00475f&area=true&hide_border=true" />
 
-### Views and Followers
-<img src="https://komarev.com/ghpvc/?username=lazypanda2004">
-<a href="https://github.com/lazypanda2004?tab=followers">
-  <img src="https://img.shields.io/github/followers/lazypanda2004?label=Followers&style=social" alt="GitHub Badge">
-</a>
-
 ## Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/kareddy-hrushikesh-reddy-aa7882253/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
