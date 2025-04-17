@@ -2,7 +2,7 @@
 
 ## ABOUT ME
 - Pursuing BTech in **Computer Science and Engineering** at **IIT Guwahati**.
-- App Developer at Student's Web Committee, IIT Guwahati.
+-  Developer at Student's Web Committee, IIT Guwahati.
 
 ## My Github Stats
 
